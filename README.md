@@ -4,8 +4,10 @@
 Computer science, programming & maths
 ## 🌱 I’m currently learning ...
 Computer science
+## 💻 I can
+C#, Python, Unity, Roblox studio, Tkinter, HTML, CSS, SQL
 ## 💞️ I’m looking to collaborate on ...
-Projects such as Games (Unity) or software/tools (C#, Python) 
+Projects such as Games (Unity, Roblox studio) or software/tools (C#, Python) 
 ## 📫 How to reach me ...
 All links to reach me are in the contacts section of my website
 <!---
