@@ -12,4 +12,4 @@
 * ✨ I'm looking to collaborate on Game, software or AI projects.
 
 ### Reach me
-
+* All links to reach can be found on my [**website**](https://mrinuccini.github.io/#contactDiv).
